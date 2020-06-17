@@ -20,7 +20,7 @@ Glitch.com has **none** of this. Getting code up and running is as simple as:
 
 * Open your browser to [Glitch.com](https://glitch.com/)
 * **Completely ignore the childish drawings of a 3 year old on the front page** \(trust me on this one, don't look\)
-* Click on **Start a New Project**, then **Create a Node App**
+* Click on **Start a New Project**, then **node-express**
 * You're... well technically you're done.
 
 That's right. You can start coding right away, technically. The default project is an express.js website. **Don't delete that yet**, we'll still need some of that code later on. Because, as simple as this might be and, well, really is actually, there's still a few things that we need to set up, including making sure the project stays online, and securing it against prying eyes.
@@ -41,8 +41,8 @@ So here's a few things about the project that we need to configure, for a few re
 
 First off, **Secure the project**. By default, anyone with your project's name can access your code directly. They can't _edit_ it but they can snoop in and look at your code. And, btw, I haven't found a way to un-share someone that's viewed your project yet \(I'm talking to Glitch to get that fixed\).
 
-* Click on the **Share** Button at the top of the file list, besides your name.
-* Click on **Make Private**.
+* Click on your project name, top right of the screen.
+* Click on **Make This Project Private**.
 * You can still invite people to view and collaborate later, with the link provided.
 
 {% hint style="warning" %}
